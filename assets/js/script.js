@@ -59,7 +59,7 @@ function cardVagaSelecionada(vaga) {
             <h3>${vaga.nome}</h3>
 
             <button class = "trash-btn bg-color-grey-5" id=${vaga.id}>
-                <img src="/assets/img/trash.svg" alt="ícone de lixeira" />
+                <img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" alt="ícone de lixeira" />
             </button>
     </div>
 
